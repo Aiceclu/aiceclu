@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "test"
+layout: home
+title: "AiryPro"
 ---
 
 # dot
